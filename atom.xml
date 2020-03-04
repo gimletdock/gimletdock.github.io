@@ -5,9 +5,9 @@
   <subtitle>无调性</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-03-03T13:37:34.565Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://gimletdock.me/"/>
+  <updated>2020-03-03T17:42:55.300Z</updated>
+  <id>http://gimletdock.me/</id>
   
   <author>
     <name>fanta</name>
@@ -17,11 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>birthday resistance</title>
-    <link href="http://yoursite.com/2020/02/29/birthday%20resistance/"/>
-    <id>http://yoursite.com/2020/02/29/birthday%20resistance/</id>
+    <title>post</title>
+    <link href="http://gimletdock.me/2020/03/04/post/"/>
+    <id>http://gimletdock.me/2020/03/04/post/</id>
+    <published>2020-03-03T17:42:55.000Z</published>
+    <updated>2020-03-03T17:42:55.300Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>birthdayresistance</title>
+    <link href="http://gimletdock.me/2020/02/29/birthday%20resistance/"/>
+    <id>http://gimletdock.me/2020/02/29/birthday%20resistance/</id>
     <published>2020-02-29T15:22:25.000Z</published>
-    <updated>2020-03-03T13:37:34.565Z</updated>
+    <updated>2020-03-03T17:44:30.189Z</updated>
     
     <summary type="html">
     
@@ -36,10 +51,10 @@
     </summary>
     
     
-      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://gimletdock.me/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="数字生活" scheme="http://yoursite.com/tags/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/"/>
+      <category term="数字生活" scheme="http://gimletdock.me/tags/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   

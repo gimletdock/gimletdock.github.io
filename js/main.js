@@ -10,8 +10,7 @@ if (!!$.prototype.justifiedGallery) {
   $(".article-gallery").justifiedGallery(options);
 }
 
-$(document).ready(function() {
-
+$(document).ready(function() { 
   /**
    * Shows the responsive navigation menu on mobile.
    */
@@ -109,5 +108,25 @@ $(document).ready(function() {
         }
       });
     }
+  }
+
+  var $source = document.getElementById('source');
+  var $output = document.getElementById('output');
+  if ($source && $output) {
+    // 打字机效果
+    var typing = new Typing({
+      source: $source,
+      output: $output,
+      delay: 80
+    });
+    typing.start();
+  }
+
+  // particlesJS效果
+  var $particlesJs = document.getElementById('particles-js');
+  if ($particlesJs) {
+    particlesJS.load('particles-js', '/lib/particles/particlesjs.json', function() {
+      console.log('callback - particles.js config loaded');
+    });  
   }
 });
